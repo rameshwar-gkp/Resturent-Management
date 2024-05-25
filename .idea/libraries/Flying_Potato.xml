@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Flying_Potato">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Flying_Potato.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
